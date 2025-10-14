@@ -214,12 +214,12 @@ h4, h5, h6 {
   z-index: 45;
 }
 .bix-loader img {
-  width: 60px;
+  width: 120px;
   position: absolute;
 }
 .bix-loader .loader {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   display: inline-block;
   position: relative;
   display: -webkit-box;
@@ -234,8 +234,8 @@ h4, h5, h6 {
 }
 .bix-loader .loader:before {
   content: "";
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   position: absolute;
   left: 0;
   top: 0;
